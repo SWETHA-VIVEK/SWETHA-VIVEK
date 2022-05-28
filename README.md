@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="Swetha V L | Gmail" height="30px" src="https://img.icons8.com/doodle/2x/gmail.png" />][gmail]
 <br />
 
-[linkedin]: https://www.linkedin.com/in/aravindhan-g-a1130a202
-[instagram]: https://www.instagram.com/_arvndhn_/
-[gmail]: mailto:aravindganpath@gmail.com
-[whatsapp]: https://wa.me/916383980192
----
+[linkedin]: https://www.linkedin.com/in/swetha-vivek
+[instagram]: https://www.instagram.com/swetha_vivekanandan/
+[gmail]: mailto:swetha.vivi@gmail.com
+[whatsapp]: https://wa.me/918870526336
+
