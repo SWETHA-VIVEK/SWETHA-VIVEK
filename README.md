@@ -1,6 +1,5 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> , I’m @Swetha VL.</h1>
 <p align="center">
-<img src="https://github.com/Aravindhan-G/Aravindhan-G/blob/main/Assets/1fc15421451453.56306052da76c.gif" alt="animated" />
 </p>
 <h4 align="center"> 🚀 Data Scientist ⚛ Intermediate Level Developer 🤖 Machine Learning Aspirant.</h4>
 
